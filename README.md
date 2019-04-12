@@ -239,7 +239,7 @@ interior is covered with mountains and lush rain forest, while the beaches are
 nothing less than dreamy.</p>
 	</div>
 		<div class="col-sm">
-			<img src="https://user-images.githubusercontent.com/49556498/56032549-bc3e9500-5d22-11e9-8e20-1913efb3910f.jpg" alt="beach9" width="320">
+			<img src="https://user-images.githubusercontent.com/49556498/56032541-bb0d6800-5d22-11e9-9e60-8ddfd4659e12.jpg" alt="beach9" width="320">
 	<br> 	<br> <h5>Havelock Island, India</h5>
 <p>This place in the Andaman and Nicobar Islands is not really a household name.
 Yet, as sooner or later tourists will start discovering it right? Part of India
@@ -248,7 +248,7 @@ likened to the Maldives and fantastic scenery both around the beaches and
 inland. Best of all? It is cheaper and much, much quieter. For now.</p>
 </div>
 		<div class="col-sm">
-			<img src="https://user-images.githubusercontent.com/49556498/56032549-bc3e9500-5d22-11e9-8e20-1913efb3910f.jpg" alt="beach10" width="320">
+			<img src="https://user-images.githubusercontent.com/49556498/56032537-ba74d180-5d22-11e9-86bc-6224c19dfb80.jpg" alt="beach10" width="320">
 	<br> 	<br> <h5>Carriacou, Grenada</h5>
 <p>And finally, back to the Caribbean. Carriacou is an island of the Grenadines
 island chain that is part of Grenada. Travel to the main island of Grenada and
