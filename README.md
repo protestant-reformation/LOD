@@ -41,7 +41,7 @@
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
     <div class="media-body">
-     <img src="beach1.jpg" align="left" alt="beach1" height="440">
+     <img src="https://user-images.githubusercontent.com/49556498/56032537-ba74d180-5d22-11e9-86bc-6224c19dfb80.jpg">
 	 <h5>Get out of the city and on a nice beach!</h5>
     <p>Some like their holidays active, others like things slow. There is no
 shame in going on holiday, kicking back and doing absolutely nothing, yet so
