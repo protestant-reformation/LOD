@@ -262,5 +262,3 @@ Carriacou and you will find a quieter and much more back-to-basics kind of place
   </div>
 </div>
 </div>
-</body>
-</html>
