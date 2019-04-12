@@ -82,7 +82,7 @@ other than gawk at it in awe, and kick back...</p>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="beach1.jpg" alt="First slide">
+      <img class="d-block w-100" src="https://user-images.githubusercontent.com/49556498/56032538-ba74d180-5d22-11e9-841c-1fde15bcd07f.jpg" alt="First slide">
 	   <div class="carousel-caption d-none d-md-block">
        <h5>1. Aitutaki, Cook Islands</h5>
        <p>Too good to be true, yep, that is definitely the tag we would attach to
@@ -93,7 +93,7 @@ on Aitutaki, there is NOT much to do here at all. Just the way we like it.</p>
        </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="beach2.jpg" alt="Second slide">
+      <img class="d-block w-100" src="https://user-images.githubusercontent.com/49556498/56032539-bb0d6800-5d22-11e9-9826-0ad0b288e70e.jpg" alt="Second slide">
 	   <div class="carousel-caption d-none d-md-block">
        <h5>2. Maldives</h5>
        <p>The Maldives warrant an obvious inclusion in this list. 1,192 coral islands
@@ -103,7 +103,7 @@ away.</p>
        </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="beach3.jpg" alt="Third slide">
+      <img class="d-block w-100" src="https://user-images.githubusercontent.com/49556498/56032541-bb0d6800-5d22-11e9-9e60-8ddfd4659e12.jpg" alt="Third slide">
 	   <div class="carousel-caption d-none d-md-block">
        <h5>3. Saba</h5>
        <p>Good old Saba. This tiny Caribbean volcanic island officially forms part of
@@ -114,7 +114,7 @@ you'll definitely have to relax here.</p>
        </div>
     </div>
 	<div class="carousel-item">
-      <img class="d-block w-100" src="beach4.jpg" alt="Fourth slide">
+      <img class="d-block w-100" src="https://user-images.githubusercontent.com/49556498/56032542-bb0d6800-5d22-11e9-99d7-d81ffd34d4b0.jpg" alt="Fourth slide">
 	   <div class="carousel-caption d-none d-md-block">
        <h5>4. Koh Rong, Cambodia</h5>
        <p>This is not the kind of Cambodia you had in mind, trust us. No temples, no
@@ -124,7 +124,7 @@ other than beaches and jungle. Sounds good, right?</p>
        </div>
     </div>
 	<div class="carousel-item">
-      <img class="d-block w-100" src="beach5.jpg" alt="Fifth slide">
+      <img class="d-block w-100" src="https://user-images.githubusercontent.com/49556498/56032543-bba5fe80-5d22-11e9-9ec5-caccd3bb4be3.jpg" alt="Fifth slide">
 	   <div class="carousel-caption d-none d-md-block">
        <h5>5. Koh Lipe, Thailand</h5>
        <p>Almost everybody can name you a few "Koh" of Thailand nowadays. But not many
@@ -204,7 +204,7 @@ what you are after, we have some suggestions for you (that are not just located
 in Asia, of course). For even more inspiration just use our Destination Search.</p>
     </div>
     <div class="col-sm">
-	<img src="beach6.jpg" alt="beach6" width="320">
+	<img src="https://user-images.githubusercontent.com/49556498/56032545-bba5fe80-5d22-11e9-9037-22afc6f40ab1.jpg" alt="beach6" width="320">
 	<br> 	<br>
 	<h5>Fernando de Noronha, Brazil</h5>
 <p>The first destination is an island well off the coast of Brazil in South America
@@ -216,7 +216,7 @@ interior, or enjoy the water and go swimming, surfing or diving. Take note that
 accomodation here is basic at best, but then that's the whole point isn't it?</p>
     </div>
     <div class="col-sm">
-		<img src="beach7.jpg" alt="beach7" width="320">
+		<img src="https://user-images.githubusercontent.com/49556498/56032548-bc3e9500-5d22-11e9-9c6f-b1dc00012137.jpg" alt="beach7" width="320">
 	<br> 	<br> <h5>Bohey Dulang, Malaysia</h5>
 <p>Bohey Dulang is one of the islands the forms part of the Tun Sakaran Marine Park
 in Sabah of Malaysia. You will need to travel to Semporna and spend the night
@@ -228,7 +228,7 @@ any real beaches. But then again you won't find many people either!</p>
     </div>
 	<div class="w-100"></div>
 	<div class="col-sm">
-		<img src="beach8.jpg" alt="beach8" width="320">
+		<img src="https://user-images.githubusercontent.com/49556498/56032549-bc3e9500-5d22-11e9-8e20-1913efb3910f.jpg" alt="beach8" width="320">
 	<br> 	<br> <h5>Moorea, French Polynesia</h5>
 <p>Everybody knows Bora Bora. Nobody knows Moorea (which lies 240 kilometer or 150
 miles to its south-east, right next to Tahiti). This island is sometimes
@@ -239,7 +239,7 @@ interior is covered with mountains and lush rain forest, while the beaches are
 nothing less than dreamy.</p>
 	</div>
 		<div class="col-sm">
-			<img src="beach9.jpg" alt="beach9" width="320">
+			<img src="https://user-images.githubusercontent.com/49556498/56032549-bc3e9500-5d22-11e9-8e20-1913efb3910f.jpg" alt="beach9" width="320">
 	<br> 	<br> <h5>Havelock Island, India</h5>
 <p>This place in the Andaman and Nicobar Islands is not really a household name.
 Yet, as sooner or later tourists will start discovering it right? Part of India
@@ -248,7 +248,7 @@ likened to the Maldives and fantastic scenery both around the beaches and
 inland. Best of all? It is cheaper and much, much quieter. For now.</p>
 </div>
 		<div class="col-sm">
-			<img src="beach10.jpg" alt="beach10" width="320">
+			<img src="https://user-images.githubusercontent.com/49556498/56032549-bc3e9500-5d22-11e9-8e20-1913efb3910f.jpg" alt="beach10" width="320">
 	<br> 	<br> <h5>Carriacou, Grenada</h5>
 <p>And finally, back to the Caribbean. Carriacou is an island of the Grenadines
 island chain that is part of Grenada. Travel to the main island of Grenada and
