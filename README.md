@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -72,7 +71,7 @@ other than gawk at it in awe, and kick back...</p>
 <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
    <div class="card-body">
    <div class="row">
-   <div class="offset-3 col-6"> <!–– con anche sopra "row", non so cosa siano ma fanno centrare e rimpicciolire il carrosello––> 
+   <div class="offset-3 col-6"> 
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="3000">
     <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
